@@ -97,7 +97,7 @@ public class PrefixFilter {
 	}
 
 	private static void printUsage() {
-		System.out.println("usage");
+		System.out.println("Please refer to the following for instructions: https://github.com/dvasipalli/prefix-filter");
 	}
 
 	private static class FilterTree {
