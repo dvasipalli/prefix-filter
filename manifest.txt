@@ -1,0 +1,3 @@
+Main-Class: PrefixFilter
+Class-Path: lib/snakeyaml-1.9.jar bin/
+
